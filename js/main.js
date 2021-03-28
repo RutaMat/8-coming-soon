@@ -2,7 +2,8 @@
 import { suma } from  './components/sum.js';
 
 import { multiply } from './components/multiply.js';
-// yra ir toks (B var)import { multiply as daugyba} from './components/multiply.js';
+// yra ir toks būdas
+// (B var)import { multiply as daugyba} from './components/multiply.js';
 //reikia zinoti is kur - from ir import -ka. lysti reik i komponentus
 //tuomet eiti i 
 
