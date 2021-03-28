@@ -1,0 +1,20 @@
+@import './init/Layout.css';
+@import './init/variables.css';
+@import './init/reset.css';
+
+@import './3rd-party/fontawesome.css';
+
+@import './components/form.css';
+@import './components/clock.css'; 
+@import './components/mouse.css'; 
+@import './components/progress-bar.css';  
+
+/* CUSTOM STYLE BY SECTION */
+/* hero - reiskia specifinej formelej tik kelis pakeitimus padaryti pvz form>unput { color: red;}*/
+/*Main content start*/
+/*Main content end*/
+
+/*footer start*/
+/*footer end*/
+
+
